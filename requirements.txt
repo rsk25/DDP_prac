@@ -1,0 +1,4 @@
+torch==1.8.1
+transformers==4.6.1
+ray[default]==1.8.0
+ray[tune]==1.8.0
